@@ -1,0 +1,114 @@
+2026-05-19 20:05:05 | INFO     | 🚀 KinoBot v4.1 ishga tushmoqda...
+2026-05-19 20:05:05 | INFO     | ✅ Database initialized successfully
+2026-05-19 20:05:06 | INFO     | ✅ Bot: @pro_kino1_bot
+2026-05-19 20:05:06 | INFO     | ✅ Barcha tizimlar tayyor!
+2026-05-19 20:05:06 | INFO     | Start polling
+2026-05-19 20:05:06 | INFO     | Run polling for bot @pro_kino1_bot id=8442828078 - 'KINO BOT'
+2026-05-19 20:05:20 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:20 | INFO     | Update id=272941186 is handled. Duration 5023 ms by bot id=8442828078
+2026-05-19 20:05:25 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:25 | INFO     | Update id=272941187 is handled. Duration 5949 ms by bot id=8442828078
+2026-05-19 20:05:26 | INFO     | Update id=272941191 is handled. Duration 570 ms by bot id=8442828078
+2026-05-19 20:05:28 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:28 | INFO     | Update id=272941189 is handled. Duration 5015 ms by bot id=8442828078
+2026-05-19 20:05:30 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:30 | INFO     | Update id=272941190 is handled. Duration 5015 ms by bot id=8442828078
+2026-05-19 20:05:30 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:30 | INFO     | Update id=272941188 is handled. Duration 7854 ms by bot id=8442828078
+2026-05-19 20:05:35 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:35 | INFO     | Update id=272941192 is handled. Duration 6977 ms by bot id=8442828078
+2026-05-19 20:05:51 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:51 | INFO     | Update id=272941193 is handled. Duration 5019 ms by bot id=8442828078
+2026-05-19 20:05:56 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:56 | INFO     | Update id=272941194 is handled. Duration 5348 ms by bot id=8442828078
+2026-05-19 20:05:58 | ERROR    | Xatolik: database is locked
+2026-05-19 20:05:58 | INFO     | Update id=272941196 is handled. Duration 5014 ms by bot id=8442828078
+2026-05-19 20:06:01 | ERROR    | Xatolik: database is locked
+2026-05-19 20:06:01 | INFO     | Update id=272941195 is handled. Duration 9355 ms by bot id=8442828078
+2026-05-19 20:22:21 | WARNING  | Received SIGINT signal
+2026-05-19 20:22:21 | INFO     | Polling stopped for bot @pro_kino1_bot id=8442828078 - 'KINO BOT'
+2026-05-19 20:22:21 | INFO     | Polling stopped
+2026-05-19 20:23:36 | INFO     | 🚀 KinoBot v4.2 ishga tushmoqda...
+2026-05-19 20:23:36 | INFO     | ✅ Database initialized successfully
+2026-05-19 20:23:37 | INFO     | ✅ Bot: @pro_kino1_bot
+2026-05-19 20:23:37 | INFO     | ✅ Barcha tizimlar tayyor!
+2026-05-19 20:23:37 | INFO     | Start polling
+2026-05-19 20:23:37 | INFO     | Run polling for bot @pro_kino1_bot id=8442828078 - 'KINO BOT'
+2026-05-19 20:24:14 | INFO     | Update id=272941197 is handled. Duration 981 ms by bot id=8442828078
+2026-05-19 20:24:25 | INFO     | Update id=272941198 is handled. Duration 296 ms by bot id=8442828078
+2026-05-19 20:24:29 | INFO     | Update id=272941199 is handled. Duration 278 ms by bot id=8442828078
+2026-05-19 20:25:01 | INFO     | Update id=272941200 is handled. Duration 307 ms by bot id=8442828078
+2026-05-19 20:25:06 | INFO     | Update id=272941201 is handled. Duration 298 ms by bot id=8442828078
+2026-05-19 20:25:19 | INFO     | Update id=272941202 is handled. Duration 350 ms by bot id=8442828078
+2026-05-19 20:25:36 | INFO     | Update id=272941203 is handled. Duration 202 ms by bot id=8442828078
+2026-05-19 20:25:50 | INFO     | Update id=272941204 is handled. Duration 218 ms by bot id=8442828078
+2026-05-19 20:25:57 | INFO     | Update id=272941205 is handled. Duration 320 ms by bot id=8442828078
+2026-05-19 20:26:01 | INFO     | Update id=272941206 is handled. Duration 222 ms by bot id=8442828078
+2026-05-19 20:26:05 | INFO     | Update id=272941207 is handled. Duration 475 ms by bot id=8442828078
+2026-05-19 20:26:09 | INFO     | Update id=272941208 is handled. Duration 234 ms by bot id=8442828078
+2026-05-19 20:26:13 | INFO     | Update id=272941209 is handled. Duration 209 ms by bot id=8442828078
+2026-05-19 20:26:15 | INFO     | Update id=272941210 is handled. Duration 230 ms by bot id=8442828078
+2026-05-19 20:26:56 | INFO     | Update id=272941211 is handled. Duration 322 ms by bot id=8442828078
+2026-05-19 20:27:06 | INFO     | Update id=272941212 is handled. Duration 260 ms by bot id=8442828078
+2026-05-19 20:27:18 | INFO     | Update id=272941213 is handled. Duration 224 ms by bot id=8442828078
+2026-05-19 20:27:38 | INFO     | Update id=272941214 is handled. Duration 219 ms by bot id=8442828078
+2026-05-19 20:27:40 | INFO     | Update id=272941215 is handled. Duration 222 ms by bot id=8442828078
+2026-05-19 20:27:56 | INFO     | Update id=272941216 is handled. Duration 249 ms by bot id=8442828078
+2026-05-19 20:28:00 | INFO     | Update id=272941217 is handled. Duration 411 ms by bot id=8442828078
+2026-05-19 20:28:04 | INFO     | Update id=272941218 is handled. Duration 429 ms by bot id=8442828078
+2026-05-19 20:28:10 | INFO     | Update id=272941219 is handled. Duration 262 ms by bot id=8442828078
+2026-05-19 20:28:13 | INFO     | Update id=272941220 is handled. Duration 301 ms by bot id=8442828078
+2026-05-19 20:28:26 | INFO     | Update id=272941221 is handled. Duration 221 ms by bot id=8442828078
+2026-05-19 20:28:55 | INFO     | Update id=272941222 is handled. Duration 237 ms by bot id=8442828078
+2026-05-19 20:29:22 | INFO     | Update id=272941223 is handled. Duration 529 ms by bot id=8442828078
+2026-05-19 20:29:27 | INFO     | Update id=272941224 is handled. Duration 534 ms by bot id=8442828078
+2026-05-19 20:32:41 | INFO     | Update id=272941225 is handled. Duration 233 ms by bot id=8442828078
+2026-05-19 20:35:33 | INFO     | Update id=272941226 is handled. Duration 335 ms by bot id=8442828078
+2026-05-19 20:35:54 | INFO     | Update id=272941228 is handled. Duration 1492 ms by bot id=8442828078
+2026-05-19 20:35:54 | INFO     | Update id=272941227 is handled. Duration 2421 ms by bot id=8442828078
+2026-05-19 20:36:30 | INFO     | Update id=272941229 is handled. Duration 705 ms by bot id=8442828078
+2026-05-19 20:36:48 | INFO     | Update id=272941230 is handled. Duration 305 ms by bot id=8442828078
+2026-05-19 20:36:55 | INFO     | Update id=272941231 is handled. Duration 247 ms by bot id=8442828078
+2026-05-19 20:37:03 | INFO     | Update id=272941232 is handled. Duration 306 ms by bot id=8442828078
+2026-05-19 20:37:11 | INFO     | Update id=272941233 is handled. Duration 243 ms by bot id=8442828078
+2026-05-19 20:37:26 | INFO     | Update id=272941234 is handled. Duration 505 ms by bot id=8442828078
+2026-05-19 20:37:30 | INFO     | Update id=272941235 is handled. Duration 971 ms by bot id=8442828078
+2026-05-19 20:37:34 | INFO     | Update id=272941236 is handled. Duration 231 ms by bot id=8442828078
+2026-05-19 20:37:42 | INFO     | Update id=272941237 is handled. Duration 244 ms by bot id=8442828078
+2026-05-19 20:37:48 | INFO     | Update id=272941238 is handled. Duration 241 ms by bot id=8442828078
+2026-05-19 20:37:53 | INFO     | Update id=272941239 is handled. Duration 246 ms by bot id=8442828078
+2026-05-19 20:37:59 | INFO     | Update id=272941240 is handled. Duration 224 ms by bot id=8442828078
+2026-05-19 20:38:57 | INFO     | Update id=272941241 is handled. Duration 425 ms by bot id=8442828078
+2026-05-19 20:39:05 | INFO     | Update id=272941242 is handled. Duration 1410 ms by bot id=8442828078
+2026-05-19 20:39:14 | INFO     | Update id=272941243 is handled. Duration 510 ms by bot id=8442828078
+2026-05-19 20:39:20 | INFO     | Update id=272941244 is handled. Duration 241 ms by bot id=8442828078
+2026-05-19 20:39:25 | INFO     | Update id=272941245 is handled. Duration 613 ms by bot id=8442828078
+2026-05-19 20:39:44 | INFO     | Update id=272941246 is handled. Duration 334 ms by bot id=8442828078
+2026-05-19 20:39:49 | ERROR    | Xatolik: Telegram server says - Bad Request: there is no text in the message to edit
+2026-05-19 20:39:49 | INFO     | Update id=272941247 is handled. Duration 322 ms by bot id=8442828078
+2026-05-19 20:40:08 | INFO     | Update id=272941248 is handled. Duration 491 ms by bot id=8442828078
+2026-05-19 20:40:15 | INFO     | Update id=272941249 is handled. Duration 622 ms by bot id=8442828078
+2026-05-19 21:05:14 | INFO     | 🚀 KinoBot v4.2 ishga tushmoqda...
+2026-05-19 21:05:14 | INFO     | ✅ Database initialized successfully
+2026-05-19 21:05:18 | INFO     | ✅ Bot: @pro_kino1_bot
+2026-05-19 21:05:18 | INFO     | ✅ Barcha tizimlar tayyor!
+2026-05-19 21:05:18 | INFO     | Start polling
+2026-05-19 21:05:18 | INFO     | Run polling for bot @pro_kino1_bot id=8442828078 - 'KINO BOT'
+2026-05-19 21:05:21 | INFO     | Update id=272941250 is handled. Duration 1672 ms by bot id=8442828078
+2026-05-19 21:07:00 | INFO     | Update id=272941251 is handled. Duration 1362 ms by bot id=8442828078
+2026-05-19 21:07:00 | INFO     | Update id=272941252 is handled. Duration 1383 ms by bot id=8442828078
+2026-05-19 21:07:01 | INFO     | Update id=272941253 is handled. Duration 602 ms by bot id=8442828078
+2026-05-19 21:07:03 | INFO     | Update id=272941254 is handled. Duration 336 ms by bot id=8442828078
+2026-05-19 21:07:08 | INFO     | Update id=272941256 is handled. Duration 701 ms by bot id=8442828078
+2026-05-19 21:07:11 | INFO     | Update id=272941255 is handled. Duration 6160 ms by bot id=8442828078
+2026-05-19 21:07:23 | INFO     | Update id=272941257 is handled. Duration 377 ms by bot id=8442828078
+2026-05-19 21:07:27 | INFO     | Update id=272941258 is handled. Duration 864 ms by bot id=8442828078
+2026-05-19 21:07:29 | INFO     | Update id=272941259 is handled. Duration 785 ms by bot id=8442828078
+2026-05-19 21:07:35 | INFO     | Update id=272941260 is handled. Duration 1123 ms by bot id=8442828078
+2026-05-19 21:07:39 | INFO     | Update id=272941261 is handled. Duration 408 ms by bot id=8442828078
+2026-05-19 21:07:44 | INFO     | Update id=272941262 is handled. Duration 925 ms by bot id=8442828078
+2026-05-19 21:08:09 | INFO     | Update id=272941263 is handled. Duration 485 ms by bot id=8442828078
+2026-05-19 21:08:14 | INFO     | Update id=272941264 is handled. Duration 1015 ms by bot id=8442828078
+2026-05-19 21:08:59 | WARNING  | Received SIGINT signal
+2026-05-19 21:08:59 | INFO     | Polling stopped for bot @pro_kino1_bot id=8442828078 - 'KINO BOT'
+2026-05-19 21:08:59 | INFO     | Polling stopped
